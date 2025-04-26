@@ -1,0 +1,42 @@
+Data Types in Python
+1. Python Integers
+2. Python Float
+3. Python Complex
+4. Python List
+5. Python Tuple
+6. Python Strings
+7. Python Sets
+8. Python Dictionary
+9. Python Files
+10. Python Long
+
+1. Integers - Int
+Integers are zero, positive and negative whole numbers e.g 7, 10,49 e.t.c  If a whole number is assigned ti a variable, it will be cast as int.
+
+2. Float - float
+Floating point numbers are positive and negative non-whole numbers i.e a decimal number e.g 5.7, 20.6, 175.4 e.t.c If a decimal is assigned to a variable it will automatically be cast as float.
+
+3. Complex - complex
+Complex data are data with both real and imaginary parts e.g 3 + 2j, -4.5 + 6j, 7j - 15.8. The letter j is the imaginary unit i.e j is equal to the square root of -1.
+
+4. Strings - str
+Strings are sequences of alpha-numeric characters enclosed in single, double or triple quotes e.g 'Hello World, "John Doe" e.t.c but the Multi-line strings are enclosed in triple quotes '''. Strings are cast as str.
+
+5. List - list
+List are ordered, mutable collections of one or more different data types enclosed in square brackets,'[]', separated by commas e.g list = [5,10,15,20], name = [john, sam, david] e.t.c
+
+6. Tuple - tuple
+Tuple are ordered, immutable collections of one or more different data types arranged like a list, but immutable and then enclosed in parentheses,'()', separated by commas e.g list = (3, 23,15,24) e.t.c
+
+7. Set - set
+Sets are unordered, mutable collections of one or more different types enclosed in curly brackets, '{]' separated by commas. Sets do not store duplicate objects suitable for mathematical set operations e.g union, intersection, difference e.t.c
+
+8. Dictionaries - dict
+Dictionaries are ordered mutable collections of data stored as key:value pairs enclosed in curly brackets, '{}' keys and values separated by colons i.e key:value pairs separated by commas in which duplicate keys are not allowed.
+
+9. Booleans - bool
+Booleans are one of two logical values: true or false which are often the result of a logical expression e.g a > b. Any value can be cast as a boolean using the bool() function.
+
+
+
+
